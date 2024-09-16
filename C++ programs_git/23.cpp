@@ -1,4 +1,4 @@
-/ write a program to calculate exp(x,y) using recursive function
+// write a program to calculate exp(x,y) using recursive function
 
 #include <iostream>
 using namespace std;
